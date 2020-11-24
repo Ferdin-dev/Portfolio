@@ -3,8 +3,8 @@ $(document).ready(function () {
   // Typed
   const type = new Typed("#typed", {
     strings: [
-      "Junior Front-End Developer",
-      "Junior Web Designer"
+      "Front-End Developer",
+      "Web Designer"
     ],
     typeSpeed: 50,
     backSpeed: 50,
